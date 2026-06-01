@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/view?type=waving&color=00C2FF&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Logavarshhni&fontSize=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/view?type=waving&color=00C2FF&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Logavarshhni%20S&fontSize=35&animation=fadeIn&fontColor=ffffff&fontAlignY=45" alt="Header Banner" />
 
 <!-- Typing Effect for Roles -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Enthusiast;1900%2B+Coding+Problems+Solver" alt="Typing SVG" />
 
 <br/>
 
-<!-- Modern Badge Row -->
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-<a href="mailto:logavarshhni.s2024cse@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
+<!-- Modern Social Badge Row -->
+<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:logavarshhni.s2024cse@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>&nbsp;
+<a href="YOUR_GITHUB_URL" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
 
 <br/>
 <br/>
@@ -50,23 +50,24 @@
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,figma" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 </div>
 
 ---
 
-## 🏆 Competitive Coding Metrics
+## 🏆 Competitive Coding Metrics & Honors
 
 <div align="center">
 
-| Platform | Milestone | Rank / Badge |
+| Platform / Honor | Metrics / Badges | Achievements & Standings |
 | :--- | :--- | :--- |
-| 🚀 **Skillrack** | **1,350+** Problems Solved | Elite Solver |
-| 🪓 **LeetCode** | **370+** Problems Solved | Problem Solver |
-| 🧑‍💻 **CodeChef** | **190+** Problems Solved | Competitive Programmer |
-| 🎯 **HackerRank** | Language Proficiency | C ⭐⭐⭐ \| C++ ⭐⭐ \| Java ⭐ |
-| 🎓 **NPTEL** | Academic Excellence | **Gold Badge Holder** |
+| 🚀 **Skillrack** | **1,350+ Problems** | Consistent daily practice |
+| 🪓 **LeetCode** | **370+ Problems** | Core DSA & algorithmic problem solving |
+| 🧑‍💻 **CodeChef** | **190+ Problems** | Competitive programming contests |
+| 🎯 **HackerRank** | C ⭐⭐⭐ \| C++ ⭐⭐ \| Java ⭐ | Foundational language proficiencies |
+| 🎓 **NPTEL** | **Gold Badge** | Academic excellence in core subjects |
+| 🏅 **Hackathons** | **1st Place** | Web Designer Day Hackathon & AI Datathon Winner |
 
 </div>
 
@@ -74,15 +75,15 @@
 
 ## 🛠️ Featured Showcases
 
-<!-- Card Grid Layout -->
+<!-- Grid Card Layout for Projects -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🔥 API Studio</h3>
       <p>A unified, production-ready API testing ecosystem designed to automate and streamline your development pipeline.</p>
       <ul>
-        <li>Functional & Load Testing</li>
-        <li>Security and Performance Validation</li>
+        <li>Functional & Load Testing validation</li>
+        <li>Security and Performance Monitoring analytics</li>
       </ul>
       <p><code>React</code> <code>Express.js</code> <code>MongoDB</code></p>
     </td>
@@ -91,7 +92,7 @@
       <p>An intelligent AI-powered analytics hub built to monitor and report student engagement metrics dynamically.</p>
       <ul>
         <li>Real-time facial expression analysis</li>
-        <li>Engagement insight generation</li>
+        <li>Engagement insight generation via webcam feeds</li>
       </ul>
       <p><code>TensorFlow.js</code> <code>Face-api.js</code></p>
     </td>
@@ -101,15 +102,14 @@
       <h3>📱 Mobile Addiction Tracker</h3>
       <p>An ML system tracking smartphone habits, applying unsupervised learning to identify and group usage risks.</p>
       <ul>
-        <li>Behavioral categorization</li>
-        <li>K-Means Clustering models</li>
+        <li>Behavioral categorization profiling</li>
+        <li>K-Means Clustering implementation</li>
       </ul>
       <p><code>Python</code> <code>Machine Learning</code></p>
     </td>
-    <td width="50%" valign="top" align="center" valign="middle">
+    <td width="50%" valign="middle" align="center">
       <br/>
-      <strong>🥇 Hackathon Highlights</strong>
-      <p>🏆 1st Prize — Web Designer Day Hackathon<br>🏆 Winner — AI Datathon</p>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0YjFjOWM3NzA3ZDYwZjg0YjI0MmYyYjFlYjVlM2NhNTc5YjFmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
@@ -134,6 +134,7 @@
 ## 🐍 Git Activity Stream
 
 <div align="center">
+  <p>Watch the snake eat my contributions grid over time!</p>
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
@@ -143,8 +144,11 @@
 
 > *"Consistency beats talent when talent doesn't stay consistent."*
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5;Keep+Growing+%F0%9F%8C%B1" alt="Footer Typing" />
 
+<!-- Animated Footer Banner -->
 <img src="https://capsule-render.vercel.app/view?type=waving&color=00C2FF&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
