@@ -31,7 +31,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/logavarshhni-s-230698333/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Logavarshhni23">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
