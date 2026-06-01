@@ -12,7 +12,10 @@
 
 ## 🚀 About Me
 
-Name: Logavarshhni S Education: B.E Computer Science Engineering College: Sri Eshwar College of Engineering CGPA: 8.38
+Name: Logavarshhni S 
+Education: B.E Computer Science Engineering 
+College: Sri Eshwar College of Engineering 
+CGPA: 8.38
 
 ---
 
