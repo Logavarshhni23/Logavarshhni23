@@ -12,19 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 CSE Student at **Sri Eshwar College of Engineering**
-
-💻 Passionate about **Full Stack Development, Java, Spring Boot, MERN Stack & AI**
-
-🏆 First Prize Winner – Web Designer Day Hackathon 2026
-
-🥇 NPTEL Gold Badge Holder
-
-🤖 AI Datathon Winner
-
-🔥 Solved **1900+ Coding Problems** across platforms
-
-🌱 Currently learning **Advanced Java, Spring Boot, System Design & DSA**
+Name: Logavarshhni S Education: B.E Computer Science Engineering College: Sri Eshwar College of Engineering CGPA: 8.38
 
 ---
 
@@ -179,7 +167,7 @@ Machine Learning system that:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Logavarshhni23/Logavarshhni23/output/github-contribution-grid-snake.svg" />
 
 </div>
 
