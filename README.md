@@ -3,7 +3,7 @@
 # Hi 👋, I'm Logavarshhni S
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Enthusiast;DSA+Learner+%7C+Problem+Solver;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=Logavarshhni23&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
