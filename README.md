@@ -78,8 +78,8 @@ Learning, Building, Growing 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,spring,mongodb,mysql,postgres,git,github,vscode,figma"/>
-
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,git,github,vscode,figma"/>
 </div>
 
 ---
