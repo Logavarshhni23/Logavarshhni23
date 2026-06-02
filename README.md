@@ -2,7 +2,11 @@
 
 # 👋 Hi, I'm Logavarshhni S
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Explorer;370%2B+LeetCode+Problems+Solved;1350%2B+Skillrack+Problems+Solved;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Explorer;370%2B+LeetCode+Problems+Solved;1350%2B+Skillrack+Problems+Solved;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Logavarshhni23&data=followers,repositories,stars,commits&theme=dark"/>
 
 <br>
 
@@ -14,9 +18,11 @@
 
 ## 🚀 About Me
 
+<img align="right" width="380" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Journey&align=center&lineCount=2&theme=github_dark"/>
+
 🎓 Computer Science Engineering Student at **Sri Eshwar College of Engineering**
 
-💻 Passionate about **Full Stack Development, Java, Spring Boot, and Artificial Intelligence**
+💻 Passionate about **Java, Spring Boot, MERN Stack, AI and Problem Solving**
 
 🏆 Winner of **AI Datathon 2025**
 
@@ -24,16 +30,18 @@
 
 🎖️ **NPTEL Gold Badge Holder**
 
-🌱 Currently exploring:
+⚡ Solved **1900+ coding problems**
+
+🌱 Currently learning:
 
 - Advanced Java
 - Spring Boot
 - System Design
 - Competitive Programming
 
-⚡ Solved **1900+ coding problems** across various platforms
+🤖 Building real-world software and AI-powered applications
 
-🤖 Interested in building impactful software and AI-powered applications
+<br clear="right"/>
 
 ---
 
@@ -86,11 +94,7 @@ Learning, Building, Growing 🚀
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Web_Designer_Day-Hackathon_Winner-gold?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_Datathon-Winner-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Gold_Badge-blue?style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Logavarshhni23&theme=algolia&column=3&margin-w=15"/>
 
 </div>
 
@@ -120,66 +124,7 @@ Learning, Building, Growing 🚀
 
 ---
 
-## 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Logavarshhni23&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔬 API Studio
-
-Unified API Testing Platform
-
-- Functional Testing
-- Load Testing
-- Security Validation
-- Performance Monitoring
-
-**Tech Stack:** React, Express, MongoDB
-
----
-
-### 😊 Emotion Aware Smart Classroom
-
-AI-Powered Classroom Analytics System
-
-- Real-Time Emotion Detection
-- TensorFlow.js
-- Face-api.js
-- Classroom Engagement Analytics
-
-**Accuracy:** 80–85%
-
----
-
-### 📱 Mobile Addiction Tracker
-
-Machine Learning-Based Behaviour Analysis
-
-- User Usage Pattern Analysis
-- K-Means Clustering
-- Risk Classification
-- Smart Insights Generation
-
----
-
-### 🛒 MERN E-Commerce Platform
-
-- Authentication & Authorization
-- REST APIs
-- MongoDB Integration
-- AWS EC2 Deployment
-- AWS S3 Storage
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -189,15 +134,69 @@ Machine Learning-Based Behaviour Analysis
 
 </div>
 
----
-
-## 📊 GitHub Summary
+<br>
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logavarshhni23&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Logavarshhni23&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 API Studio
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/Express-Backend-black?style=flat-square&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb"/>
+
+Unified API Testing Platform with:
+
+- Functional Testing
+- Load Testing
+- Security Validation
+- Performance Monitoring
+
+---
+
+### 😊 Emotion Aware Smart Classroom
+
+<img src="https://img.shields.io/badge/TensorFlow.js-AI-orange?style=flat-square&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/FaceAPI-Detection-blue?style=flat-square"/>
+
+Features:
+
+- Real-Time Emotion Detection
+- Classroom Engagement Analytics
+- AI Insights
+
+Accuracy: **80–85%**
+
+---
+
+### 📱 Mobile Addiction Tracker
+
+Machine Learning Project
+
+- K-Means Clustering
+- User Behaviour Analysis
+- Risk Classification
+- Smart Usage Insights
 
 ---
 
@@ -253,8 +252,8 @@ Machine Learning-Based Behaviour Analysis
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-*"Learning today. Building tomorrow."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:6A5ACD"/>
 
 </div>
