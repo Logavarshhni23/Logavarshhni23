@@ -10,11 +10,15 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Logavarshhni23&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656986-9f7b0f4f-f6d8-4f36-b0d0-6c1f2f7b6c1c.gif" width="700"/>
+
+</div>
 
 ## 🚀 About Me
 
