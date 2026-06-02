@@ -35,7 +35,6 @@ Currently Learning:
   - Competitive Programming
 ```
 
-update my about me by adding Developer Girl giff
 ---
 
 ## 🖥️ Developer Terminal
