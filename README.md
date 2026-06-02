@@ -198,20 +198,6 @@ Machine Learning Project
 
 ---
 
-## 🎯 Current Focus
-
-```text
-✓ Advanced Java
-✓ Spring Boot
-✓ Data Structures & Algorithms
-✓ System Design
-✓ MERN Stack Development
-✓ Artificial Intelligence
-✓ Open Source Contributions
-```
-
----
-
 ## 📜 Certifications
 
 🏅 Artificial Intelligence – Infosys Springboard
