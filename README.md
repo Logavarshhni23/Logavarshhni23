@@ -16,6 +16,10 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
+<table>
+<tr>
+<td width="60%">
+
 ```yaml
 Name: Logavarshhni S
 Role: Software Developer
@@ -37,6 +41,19 @@ Currently Learning:
   - Competitive Programming
 ```
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280"/>
+
+<br><br>
+
+💻 **Code • Learn • Build • Repeat**
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🖥️ Developer Terminal
