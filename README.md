@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Logavarshhni S
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Explorer;370%2B+LeetCode+Problems+Solved;1350%2B+Skillrack+Problems+Solved;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;DSA+Enthusiasist;370%2B+LeetCode+Problems+Solved;"/>
 
 <br>
 
