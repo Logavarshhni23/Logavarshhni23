@@ -14,32 +14,28 @@
 
 </div>
 
-## 🚀 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="380" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Journey&align=center&lineCount=2&theme=github_dark"/>
+```yaml
+Name: Logavarshhni S
+Role: Software Developer
+College: Sri Eshwar College of Engineering
+Branch: Computer Science Engineering
+Current CGPA: 8.38
 
-🎓 Computer Science Engineering Student at **Sri Eshwar College of Engineering**
+Passionate About:
+  - Full Stack Development
+  - Java & Spring Boot
+  - Data Structures and Algorithms
+  - Artificial Intelligence
+  - Problem Solving
 
-💻 Passionate about **Java, Spring Boot, MERN Stack, AI and Problem Solving**
-
-🏆 Winner of **AI Datathon 2025**
-
-🥇 First Prize in **Web Designer Day Hackathon 2026**
-
-🎖️ **NPTEL Gold Badge Holder**
-
-⚡ Solved **1900+ coding problems**
-
-🌱 Currently learning:
-
-- Advanced Java
-- Spring Boot
-- System Design
-- Competitive Programming
-
-🤖 Building real-world software and AI-powered applications
-
-<br clear="right"/>
+Currently Learning:
+  - Advanced Java
+  - Spring Boot
+  - System Design
+  - Competitive Programming
+```
 
 ---
 
