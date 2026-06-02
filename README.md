@@ -13,31 +13,48 @@
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9f7b0f4f-f6d8-4f36-b0d0-6c1f2f7b6c1c.gif" width="700"/>
 
 </div>
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-```yaml
-Name: Logavarshhni S
-Role: Software Developer
-College: Sri Eshwar College of Engineering
-Branch: Computer Science Engineering
-Current CGPA: 8.38
+<table>
+<tr>
 
-Passionate About:
-  - Full Stack Development
-  - Java & Spring Boot
-  - Data Structures and Algorithms
-  - Artificial Intelligence
-  - Problem Solving
+<td width="60%" valign="top">
 
-Currently Learning:
-  - Advanced Java
-  - Spring Boot
-  - System Design
-  - Competitive Programming
-```
+### 👋 Hi, I'm Logavarshhni S
 
-update my about me by adding Developer Girl giff
+🎓 **College:** Sri Eshwar College of Engineering
+
+💻 **Role:** Software Developer
+
+📚 **Branch:** Computer Science Engineering
+
+📈 **Current CGPA:** 8.38
+
+#### 🚀 Passionate About
+
+- Full Stack Development
+- Java & Spring Boot
+- Data Structures and Algorithms
+- Artificial Intelligence
+- Problem Solving
+
+#### 🌱 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- System Design
+- Competitive Programming
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🖥️ Developer Terminal
