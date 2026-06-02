@@ -16,21 +16,27 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<table>
+<table align="center">
 <tr>
-<td width="60%">
+<td width="50%" valign="middle">
 
 ```yaml
 Name: Logavarshhni S
 Role: Software Developer
-College: Sri Eshwar College of Engineering
-Branch: Computer Science Engineering
-Current CGPA: 8.38
+
+College:
+  Sri Eshwar College of Engineering
+
+Branch:
+  Computer Science Engineering
+
+Current CGPA:
+  8.38
 
 Passionate About:
   - Full Stack Development
   - Java & Spring Boot
-  - Data Structures and Algorithms
+  - Data Structures & Algorithms
   - Artificial Intelligence
   - Problem Solving
 
@@ -43,15 +49,14 @@ Currently Learning:
 
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f72-41f4-ae9c-4fef46f0b7f.gif" width="340"/>
 
-<br><br>
-
-💻 **Code • Learn • Build • Repeat**
+### 💻 Code • Learn • Build • Repeat
 
 </td>
+
 </tr>
 </table>
 ---
