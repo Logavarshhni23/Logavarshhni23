@@ -88,7 +88,11 @@ Learning, Building, Growing 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Logavarshhni23&theme=algolia&column=3&margin-w=15"/>
+<img src="https://img.shields.io/badge/🥇-Web_Designer_Day_Hackathon_Winner-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏅-AI_Datathon_Winner-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎖️-NPTEL_Gold_Badge-blue?style=for-the-badge"/>
 
 </div>
 
