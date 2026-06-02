@@ -6,10 +6,6 @@
 
 <br>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Logavarshhni23&data=followers,repositories,stars,commits&theme=dark"/>
-
-<br>
-
 </div>
 
 ---
