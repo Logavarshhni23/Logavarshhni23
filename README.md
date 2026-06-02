@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9f7b0f4f-f6d8-4f36-b0d0-6c1f2f7b6c1c.gif" width="700"/>
