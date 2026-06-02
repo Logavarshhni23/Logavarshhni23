@@ -1,39 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00C2FF&text=LOGAVARSHHNI%20S&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Logavarshhni+S;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+ML+Explorer;1900%2B+Coding+Problems+Solved;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;DSA+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Projects+That+Solve+Real+Problems"/>
+### 🚀 Computer Science Engineering Student | Problem Solver | Builder
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-```yaml
-Name: Logavarshhni S
-Role: Software Developer
-College: Sri Eshwar College of Engineering
-Branch: Computer Science Engineering
-Current CGPA: 8.38
+# 🚀 About Me
 
-Passionate About:
-  - Full Stack Development
-  - Java & Spring Boot
-  - Data Structures and Algorithms
-  - Artificial Intelligence
-  - Problem Solving
+🎓 Computer Science Engineering Student at **Sri Eshwar College of Engineering**
 
-Currently Learning:
-  - Advanced Java
-  - Spring Boot
-  - System Design
-  - Competitive Programming
+💻 Passionate about **Full Stack Development, Java, Spring Boot and AI**
+
+🏆 Winner of **AI Datathon 2025**
+
+🥇 First Prize in **Web Designer Day Hackathon 2026**
+
+🎖️ **NPTEL Gold Badge Holder**
+
+🌱 Currently learning:
+- Advanced Java
+- Spring Boot
+- System Design
+- Competitive Programming
+
+⚡ Solved **1900+ coding problems** across various platforms
+
+🤖 Interested in building impactful AI-powered applications
+
+---
+
+# 🖥️ Developer Terminal
+
+```bash
+> whoami
+
+Logavarshhni S
+
+> education
+
+Sri Eshwar College of Engineering
+Computer Science Engineering
+
+> skills
+
+Java
+Spring Boot
+React
+Node.js
+MongoDB
+DSA
+
+> achievements
+
+AI Datathon Winner
+Web Designer Day Champion
+NPTEL Gold Badge
+
+> status
+
+Building cool things 🚀
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -43,33 +80,17 @@ Currently Learning:
 
 ---
 
-# 📈 Coding Journey
+# 🏆 Achievements
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🥇-Web_Designer_Day_Hackathon_2026-yellow?style=for-the-badge"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🏅-AI_Datathon_Winner_2025-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎖️-NPTEL_Gold_Badge-blue?style=for-the-badge"/>
 
 </div>
-
----
-
-# 🏆 Achievements
-
-<table>
-<tr>
-<td>
-
-🥇 First Prize – Web Designer Day Hackathon 2026
-
-🏅 Winner – AI Datathon 2025
-
-🎖️ NPTEL Gold Badge Holder
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -91,83 +112,121 @@ Currently Learning:
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_LINK">
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
-</a>
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+# 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🔬 API Studio
-Unified API Testing Platform
 
-✨ Functional Testing  
-✨ Load Testing  
-✨ Security Validation  
-✨ Performance Monitoring
+### Unified API Testing Platform
 
-**Tech Stack:** React, Express, MongoDB
+⚡ Functional Testing
+
+⚡ Load Testing
+
+⚡ Security Validation
+
+⚡ Performance Monitoring
+
+**Tech Stack:** React • Express • MongoDB
 
 ---
 
 ## 😊 Emotion Aware Smart Classroom
 
-AI-powered classroom analytics system
+### AI Powered Classroom Analytics System
 
-✨ Emotion Detection
+🎯 Accuracy: 80-85%
 
-✨ Real-Time Insights
+⚡ Real-Time Emotion Detection
 
-✨ TensorFlow.js
+⚡ TensorFlow.js
 
-✨ Face-api.js
+⚡ Face-api.js
 
-Accuracy: **80-85%**
+⚡ Classroom Engagement Analytics
 
 ---
 
 ## 📱 Mobile Addiction Tracker
 
-Machine Learning Project
+### Machine Learning Based Behaviour Analysis
 
-✨ User Behavior Analysis
+⚡ User Usage Pattern Analysis
 
-✨ K-Means Clustering
+⚡ K-Means Clustering
 
-✨ Risk Classification
+⚡ Risk Classification
+
+⚡ Smart Insights Generation
 
 ---
 
 ## 🛒 MERN E-Commerce Platform
 
-✨ Authentication
+### Full Stack E-Commerce Application
 
-✨ REST APIs
+⚡ Authentication & Authorization
 
-✨ AWS EC2 Deployment
+⚡ REST APIs
 
-✨ MongoDB Integration
+⚡ MongoDB Integration
 
-✨ Full Stack Architecture
+⚡ AWS EC2 Deployment
+
+⚡ Cloud Storage with AWS S3
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
 
@@ -180,6 +239,36 @@ Machine Learning Project
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✓ Advanced Java
+✓ Spring Boot
+✓ Data Structures & Algorithms
+✓ System Design
+✓ MERN Stack Development
+✓ Artificial Intelligence
+✓ Open Source Contributions
+```
+
+---
+
+# 📜 Certifications
+
+🏅 Artificial Intelligence – Infosys Springboard
+
+🏅 Programming in Java – NPTEL
+
+🏅 Oracle Java Programming Badge
+
+🏅 SQL Intermediate – HackerRank
+
+🏅 Design Thinking – NPTEL
+
+🏅 C++ Training – IIT Spoken Tutorial
 
 ---
 
@@ -205,12 +294,10 @@ Machine Learning Project
 
 <div align="center">
 
-### ⚡ Fun Fact
+## 💭 Philosophy
 
-> "Every bug is just an undocumented feature waiting to be fixed."
+### "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,100:00C2FF"/>
