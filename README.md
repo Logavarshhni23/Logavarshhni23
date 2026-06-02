@@ -36,8 +36,6 @@ Currently Learning:
 ```
 
 update my about me by adding Developer Girl giff
-
-instead of yaml file i need normally and also need Developer Girl gif on its right side
 ---
 
 ## 🖥️ Developer Terminal
