@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Logavarshhni+S;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+ML+Explorer;1900%2B+Coding+Problems+Solved;Always+Learning+Something+New"/>
+# 👋 Hi, I'm Logavarshhni S
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Explorer;370%2B+LeetCode+Problems+Solved;1350%2B+Skillrack+Problems+Solved;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Logavarshhni23&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 Computer Science Engineering Student at **Sri Eshwar College of Engineering**
 
-💻 Passionate about **Full Stack Development, Java, Spring Boot and AI**
+💻 Passionate about **Full Stack Development, Java, Spring Boot, and Artificial Intelligence**
 
 🏆 Winner of **AI Datathon 2025**
 
@@ -22,7 +24,8 @@
 
 🎖️ **NPTEL Gold Badge Holder**
 
-🌱 Currently learning:
+🌱 Currently exploring:
+
 - Advanced Java
 - Spring Boot
 - System Design
@@ -30,11 +33,11 @@
 
 ⚡ Solved **1900+ coding problems** across various platforms
 
-🤖 Interested in building impactful AI-powered applications
+🤖 Interested in building impactful software and AI-powered applications
 
 ---
 
-# 🖥️ Developer Terminal
+## 🖥️ Developer Terminal
 
 ```bash
 > whoami
@@ -46,29 +49,30 @@ Logavarshhni S
 Sri Eshwar College of Engineering
 Computer Science Engineering
 
-> skills
+> tech_stack
 
 Java
 Spring Boot
 React
 Node.js
 MongoDB
-DSA
+MySQL
+PostgreSQL
 
 > achievements
 
 AI Datathon Winner
 Web Designer Day Champion
-NPTEL Gold Badge
+NPTEL Gold Badge Holder
 
-> status
+> current_status
 
-Building cool things 🚀
+Learning, Building, Growing 🚀
 ```
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -78,31 +82,31 @@ Building cool things 🚀
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇-Web_Designer_Day_Hackathon_2026-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Designer_Day-Hackathon_Winner-gold?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🏅-AI_Datathon_Winner_2025-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Datathon-Winner-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🎖️-NPTEL_Gold_Badge-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Gold_Badge-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-370%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-370%2B_Problems-orange?style=for-the-badge&logo=leetcode"/>
 
-<img src="https://img.shields.io/badge/Skillrack-1350%2B%20Problems-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skillrack-1350%2B_Problems-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CodeChef-190%2B%20Problems-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-190%2B_Problems-brown?style=for-the-badge&logo=codechef"/>
 
-<img src="https://img.shields.io/badge/HackerRank-C%E2%AD%90%E2%AD%90%E2%AD%90%20%7C%20C%2B%2B%E2%AD%90%E2%AD%90%20%7C%20Java%E2%AD%90-brightgreen?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-C⭐⭐⭐_|_C++⭐⭐_|_Java⭐-brightgreen?style=for-the-badge&logo=hackerrank"/>
 
 </div>
 
@@ -116,7 +120,7 @@ Building cool things 🚀
 
 ---
 
-# 🏆 GitHub Trophy Wall
+## 🏆 GitHub Trophy Wall
 
 <div align="center">
 
@@ -126,85 +130,68 @@ Building cool things 🚀
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔬 API Studio
+### 🔬 API Studio
 
-### Unified API Testing Platform
+Unified API Testing Platform
 
-⚡ Functional Testing
+- Functional Testing
+- Load Testing
+- Security Validation
+- Performance Monitoring
 
-⚡ Load Testing
-
-⚡ Security Validation
-
-⚡ Performance Monitoring
-
-**Tech Stack:** React • Express • MongoDB
+**Tech Stack:** React, Express, MongoDB
 
 ---
 
-## 😊 Emotion Aware Smart Classroom
+### 😊 Emotion Aware Smart Classroom
 
-### AI Powered Classroom Analytics System
+AI-Powered Classroom Analytics System
 
-🎯 Accuracy: 80-85%
+- Real-Time Emotion Detection
+- TensorFlow.js
+- Face-api.js
+- Classroom Engagement Analytics
 
-⚡ Real-Time Emotion Detection
-
-⚡ TensorFlow.js
-
-⚡ Face-api.js
-
-⚡ Classroom Engagement Analytics
+**Accuracy:** 80–85%
 
 ---
 
-## 📱 Mobile Addiction Tracker
+### 📱 Mobile Addiction Tracker
 
-### Machine Learning Based Behaviour Analysis
+Machine Learning-Based Behaviour Analysis
 
-⚡ User Usage Pattern Analysis
-
-⚡ K-Means Clustering
-
-⚡ Risk Classification
-
-⚡ Smart Insights Generation
+- User Usage Pattern Analysis
+- K-Means Clustering
+- Risk Classification
+- Smart Insights Generation
 
 ---
 
-# 📊 GitHub Statistics
+### 🛒 MERN E-Commerce Platform
+
+- Authentication & Authorization
+- REST APIs
+- MongoDB Integration
+- AWS EC2 Deployment
+- AWS S3 Storage
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Logavarshhni23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Logavarshhni23&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logavarshhni23&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logavarshhni23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Logavarshhni23&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📊 GitHub Summary
+## 📊 GitHub Summary
 
 <div align="center">
 
@@ -214,17 +201,7 @@ Building cool things 🚀
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Logavarshhni23/Logavarshhni23/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```text
 ✓ Advanced Java
@@ -238,7 +215,7 @@ Building cool things 🚀
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 🏅 Artificial Intelligence – Infosys Springboard
 
@@ -254,7 +231,7 @@ Building cool things 🚀
 
 ---
 
-# 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -262,7 +239,7 @@ Building cool things 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/logavarshhni-s-230698333/">
+<a href="https://www.linkedin.com/in/logavarshhni-s-230698333/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -276,10 +253,8 @@ Building cool things 🚀
 
 <div align="center">
 
-## 💭 Philosophy
+### ⭐ Thanks for visiting my profile!
 
-### "Code. Learn. Build. Repeat."
-
-⭐ If you like my work, consider giving a star to my repositories.
+*"Learning today. Building tomorrow."*
 
 </div>
