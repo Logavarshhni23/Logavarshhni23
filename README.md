@@ -77,12 +77,23 @@ Currently Learning:
 
 <div align="center">
 
-| Platform | Achievement |
-|-----------|------------|
-| LeetCode | 370+ Problems Solved |
-| Skillrack | 1350+ Problems Solved |
-| CodeChef | 190+ Problems Solved |
-| HackerRank | Java ⭐, C++ ⭐⭐, C ⭐⭐⭐ |
+<img src="https://img.shields.io/badge/LeetCode-370%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Skillrack-1350%2B%20Problems-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CodeChef-190%2B%20Problems-brown?style=for-the-badge&logo=codechef"/>
+
+<img src="https://img.shields.io/badge/HackerRank-C%E2%AD%90%E2%AD%90%E2%AD%90%20%7C%20C%2B%2B%E2%AD%90%E2%AD%90%20%7C%20Java%E2%AD%90-brightgreen?style=for-the-badge&logo=hackerrank"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+</a>
 
 </div>
 
