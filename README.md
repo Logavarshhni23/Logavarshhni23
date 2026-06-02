@@ -238,6 +238,4 @@ Machine Learning Project
 
 ## ⭐ Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:6A5ACD"/>
-
 </div>
