@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Logavarshhni+S;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+ML+Explorer;1900%2B+Coding+Problems+Solved;Always+Learning+Something+New"/>
 
-### 🚀 Computer Science Engineering Student | Problem Solver | Builder
-
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
@@ -112,7 +110,7 @@ Building cool things 🚀
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Loga23?theme=dark&font=Poppins&ext=contest"/>
 
 </div>
 
@@ -122,7 +120,7 @@ Building cool things 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Logavarshhni23&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -176,29 +174,13 @@ Building cool things 🚀
 
 ---
 
-## 🛒 MERN E-Commerce Platform
-
-### Full Stack E-Commerce Application
-
-⚡ Authentication & Authorization
-
-⚡ REST APIs
-
-⚡ MongoDB Integration
-
-⚡ AWS EC2 Deployment
-
-⚡ Cloud Storage with AWS S3
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Logavarshhni23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Logavarshhni23&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -206,7 +188,7 @@ Building cool things 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logavarshhni23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -216,7 +198,7 @@ Building cool things 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Logavarshhni23&theme=tokyo-night"/>
 
 </div>
 
@@ -226,7 +208,7 @@ Building cool things 🚀
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logavarshhni23&theme=tokyonight"/>
 
 </div>
 
@@ -236,7 +218,7 @@ Building cool things 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Logavarshhni23/Logavarshhni23/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -276,11 +258,11 @@ Building cool things 🚀
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Logavarshhni23">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/logavarshhni-s-230698333/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
